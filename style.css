@@ -182,7 +182,7 @@ h2{
 @media screen and (min-width: 90em) {
     /* layout */
     .grid-template{
-        grid-template-columns: repeat(3,20rem);
+        grid-template-columns: repeat(3,23rem);
         grid-template-rows: repeat(4,7.5rem);
     }
 
