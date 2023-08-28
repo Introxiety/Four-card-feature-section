@@ -204,7 +204,7 @@ h2{
        padding: 2rem;
     }
     main >div:nth-child(1){
-        max-width: 30rem;
+        max-width: 35rem;
         justify-self: center;
     }
     .text-m {
@@ -213,5 +213,9 @@ h2{
 
     .gap-s{
         gap: 2rem;
+    }
+
+    h1{
+        font-size: 2.5rem;
     }
   }
