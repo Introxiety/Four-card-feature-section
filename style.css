@@ -150,6 +150,7 @@ main {
 
 p {
     color: gray;
+    font-size: .8rem;
 }
 
 h1 {
@@ -180,7 +181,7 @@ h2{
 @media screen and (min-width: 90em) {
     /* layout */
     .grid-template{
-        grid-template-columns: repeat(3,25rem);
+        grid-template-columns: repeat(3,20rem);
         grid-template-rows: repeat(4,7.5rem);
     }
 
